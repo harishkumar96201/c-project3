@@ -4,7 +4,7 @@ int main()
 	int a[100],i,n,*add;
 	printf("enter the size");
 	scanf("%d",&n);
-	printf("enter the no");
+	printf("Enter the no");
 	for(i=0;i<n;i++)
 	{
 		scanf("%d",&a[i]);
